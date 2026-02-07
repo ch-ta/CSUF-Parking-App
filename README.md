@@ -122,7 +122,7 @@ class MyApp extends StatelessWidget {
 
 [Huy Ho (Alex)](https://github.com/hho114): front-end, back-end, research, maintenance, testing, design.
 
-[Christopher Ta](https://github.com/Krunk-Juice): front-end, plan, research, document, testing, design.
+[Christopher Ta](https://github.com/ch-ta): front-end, plan, research, document, testing, design.
 
 [Marco Chavez](https://github.com/mchvz93): front-end, testing, research, document.
 
